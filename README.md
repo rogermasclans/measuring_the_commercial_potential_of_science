@@ -6,6 +6,6 @@ For users who find container management challenging, we've also provided simplif
 
 ## Content
 - `trainer-docker` and `predictions-docker`: Directories with code to train and get predictions within a containerized environment, using Docker.
-- `revamped_abstracts_chatgpt_api.py`: Python code to make abstracts more commercially appealing using ChatGPT API. Used to assess the robustness of the mdoel to the use of topical, commercially-oriented language.
+- `revamped_abstracts_chatgpt_api.py`: Python code to make abstracts more commercially appealing using ChatGPT, via API. Used to assess the robustness of the model to the use of topical, commercially-oriented language.
 - `science_compot_montecarlo_dropout.ipynb`: Notebook to run the Monte Carlo Drop Out Simulations. Used to cast several predictions for a random sample of 100,000 abstracts and assess the model's uncertainty.
 - `science_compot_train_and_preds.ipynb`: Notebook (simplified) to train and get predictions on the commercial potential of scientific research. 
