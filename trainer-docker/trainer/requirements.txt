@@ -1,0 +1,8 @@
+transformers==4.29.2
+torch
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
+google-cloud-storage
