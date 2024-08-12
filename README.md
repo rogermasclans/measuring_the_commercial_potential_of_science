@@ -4,6 +4,10 @@ The repository includes code for training models and generating predictions with
 
 For users who find container management challenging, we've also provided simplified notebook versions that can be easily used, for instance, via Google Colab.
 
+A dataset with the commercial potential measures is available at https://zenodo.org/records/10815144
+
+If you use the code or data, please cite Masclans, R., Hasan, S., & Cohen, W. M. (2024). Measuring the Commercial Potential of Science (No. w32262). National Bureau of Economic Research.
+
 ## Content
 - `trainer-docker` and `predictions-docker`: Directories with code to train and get predictions within a containerized environment, using Docker.
 - `revamped_abstracts_chatgpt_api.py`: Python code to make abstracts more commercially appealing using ChatGPT, via API. Used to assess the robustness of the model to the use of topical, commercially-oriented language.
